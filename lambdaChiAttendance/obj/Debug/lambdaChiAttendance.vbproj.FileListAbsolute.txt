@@ -1,0 +1,30 @@
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.exe.config
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.exe
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.pdb
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.xml
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.Resources.resources
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.vbproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.exe
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.xml
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.pdb
+C:\Users\Alex\Desktop\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.attendanceForm.resources
+E:\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.exe.config
+E:\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.exe
+E:\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.xml
+E:\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.pdb
+E:\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.exe
+E:\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.pdb
+E:\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.xml
+E:\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.attendanceForm.resources
+E:\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.Resources.resources
+E:\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.vbproj.GenerateResource.Cache
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.exe.config
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.exe
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.xml
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.pdb
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.exe
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.pdb
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\bin\Debug\lambdaChiAttendance.xml
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.attendanceForm.resources
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.Resources.resources
+E:\Lambda Chi Files\lambdaChiAttendance\lambdaChiAttendance\obj\Debug\lambdaChiAttendance.vbproj.GenerateResource.Cache
