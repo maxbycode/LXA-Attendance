@@ -6,10 +6,10 @@ License info available here: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Program was written in Visual Basic and is planned to be rewritten in Java 7 for compatability on more systems
 
-Be sure to use the issue tracker and please send all feedback to onewiththecore@v0ltureprogramming.com
+Be sure to use the issue tracker and please send all feedback to ahamilton@v0lture.com
 
 Pictures:
-http://i.imgur.com/OP6HSIe.png
-http://i.imgur.com/wZ3eHkM.png
-http://i.imgur.com/wVQnNb8.png
-http://i.imgur.com/ip2Zf5A.png
+![Img1](http://i.imgur.com/OP6HSIe.png)
+![Img2](http://i.imgur.com/wZ3eHkM.png)
+![Img3](http://i.imgur.com/wVQnNb8.png)
+![Img4](http://i.imgur.com/ip2Zf5A.png)
